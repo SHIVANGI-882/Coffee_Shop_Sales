@@ -1,5 +1,6 @@
 # DATA ANALYST PORTFOLIO PROJECT
 # Project Title - COFFEE SHOP SALES
+# TOOL USED - MICROSOFT EXCEL
 # Project Description-
  1. ASSIGNMENT-To Better Understand purchase behavior and streamline operations,Our goal is to transform data into dynamic dashboard that franchise owners can use to identify patterns,trends and opportunities for 
                the business.
